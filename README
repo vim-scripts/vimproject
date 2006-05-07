@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1534
+
+A crude but useful way to quickly open files in a project, particularly those several directories deep -- saves a lot of typing. See http://whisperingwind.co.uk/index.php/free/vimproject/ for screen shots and example XML project file.
+
+This could probably be done in vim's native scripting language, but I don't know it and can't be bothered to learn it. Perhaps one day...
